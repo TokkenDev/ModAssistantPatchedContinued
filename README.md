@@ -13,3 +13,5 @@ Check out - [https://github.com/Slied1961/BeatSaber-IPA-Reloaded-Patched]
 Join my discord for support or questions - https://discord.gg/fd3Z8B9
 
 ![Alt Text](https://i.imgur.com/CfHG7dT.gif)
+
+- Tokken here, continued this because slied's automatic patcher didn't work for me on custom versions of windows 11.
