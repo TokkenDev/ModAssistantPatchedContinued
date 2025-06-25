@@ -4,4 +4,4 @@
 
 [Download BSIPAPatched](https://github.com/TokkenDev/ModAssistantPatchedContinued/releases/tag/bsipapatched)
 
-- Tokken here, continued this because slied's automatic patcher didn't work for me on custom versions of windows 11.
+Please buy the game if you really enjoy it, it supports the creators, treat this as a demo, treat every crack as a demo. Multiplayer is fun and you also get leaderboard access when you buy the game so you can compete!
