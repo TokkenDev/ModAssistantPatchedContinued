@@ -1,6 +1,6 @@
 "Piracy is bad, unlike handing out massive amounts of copyrighted music"
 
-[Download ModAssistantPatched](https://github.com/TokkenDev/ModAssistantPatchedContinued/releases/tag/modassistantpatched)
+[Download ModAssistantPatched](https://github.com/TokkenDev/ModAssistantPatchedContinued/releases/tag/modassistantpatched-v1.1.35)
 
 [Download BSIPAPatched](https://github.com/TokkenDev/ModAssistantPatchedContinued/releases/tag/bsipapatched)
 
