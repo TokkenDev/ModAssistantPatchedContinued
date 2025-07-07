@@ -5,3 +5,5 @@
 [Download BSIPAPatched](https://github.com/TokkenDev/ModAssistantPatchedContinued/releases/tag/bsipapatched)
 
 Please buy the game if you really enjoy it, it supports the creators, treat this as a demo, treat every crack as a demo. Multiplayer is fun and you also get leaderboard access when you buy the game so you can compete!
+
+If you're cracking the dlc's with creamapi but have the original game, you still need to patch bsipa. Modassistant itself does not detect creamapi/steam api dll 
